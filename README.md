@@ -12,6 +12,15 @@ Wichtige Dateien:
 - [TwitterLoginActivity.java](https://github.com/derAndroidPro/Twitter-API_SignInTutorial/blob/master/app/src/main/java/derandroidpro/de/twitter/api/tutorial/TwitterLoginActivity.java)
 - [activity_twitter_login.xml](https://github.com/derAndroidPro/Twitter-API_SignInTutorial/blob/master/app/src/main/res/layout/activity_twitter_login.xml)
 
+---
+Twitter API Reihe:
+- Teil 1: [YouTube](https://www.youtube.com/watch?v=8Rv3IrCAKs8) / [GitHub](https://github.com/derAndroidPro/Twitter-API_SignInTutorial)
+- Teil 2: [YouTube](https://www.youtube.com/watch?v=TAYlSVEAmRc) / [GitHub](https://github.com/derAndroidPro/TwitterAPI_Tweet_Text_Tutorial)
+- Teil 3: [YouTube](https://www.youtube.com/watch?v=Dw1MJL17x24) / [GitHub](https://github.com/derAndroidPro/Twitter-API_Tweet_Image_Tutorial)
+- Teil 4: [YouTube](https://www.youtube.com/watch?v=KhH1kZOoO_Y) / [GitHub](https://github.com/derAndroidPro/Twitter-API_Display_Tweet)
+
+---
+
 
 <b>SCREENSHOTS</b>
 
